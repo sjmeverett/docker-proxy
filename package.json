@@ -1,0 +1,23 @@
+{
+  "name": "docker-proxy",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/command-line-args": "^4.0.2",
+    "@types/node": "^8.0.56",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.17",
+    "load-grunt-tasks": "^3.5.2",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "command-line-usage": "^4.0.2",
+    "dolphin": "^0.1.14",
+    "rc-yaml": "^2.0.0",
+    "redbird": "^0.7.0"
+  }
+}
