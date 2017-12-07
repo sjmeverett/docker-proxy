@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/command-line-args": "^4.0.2",
+    "@types/express": "^4.0.39",
     "@types/node": "^8.0.56",
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "^1.1.0",
@@ -17,6 +18,7 @@
     "command-line-args": "^4.0.7",
     "command-line-usage": "^4.0.2",
     "dolphin": "^0.1.14",
+    "express": "^4.16.2",
     "rc-yaml": "^2.0.0",
     "redbird": "^0.7.0"
   }
